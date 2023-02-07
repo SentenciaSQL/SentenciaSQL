@@ -17,6 +17,11 @@ Hi, I'm Andrés Frías, full stack developer involved in the entire software dev
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,php,laravel,spring,hibernate,maven,androidstudio,mysql,aws,bootstrap,dart,py,django,flask,ts,eclipse,firebase,gcp,idea,jquery,mongodb,postgres,cloudflare,py,wordpress)](https://skillicons.dev)
 
+## Mobiles Apps ##
+**Learn Kids**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> https://play.google.com/store/apps/details?id=com.infandres.learn_kids_app
+
 
 **Github Stats**
 

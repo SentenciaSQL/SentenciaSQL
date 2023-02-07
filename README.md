@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-AndresF-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-frias-guzman/)
+[![Instagram Badge](https://img.shields.io/badge/-andres_frias1214-833AB4?style=flat&labelColor=833AB4&logo=instagram&logoColor=white)](https://www.instagram.com/andres_frias1214/)
 [![StackOverflow Badge](https://img.shields.io/badge/-AndresF-ef8236?style=flat&labelColor=ef8236&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16978482/andres-frias)
 [![Discord Badge](https://img.shields.io/badge/-AndresFrias-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white)](https://discordapp.com/users/AndresFrias#2506)
 

@@ -5,6 +5,7 @@
 [![StackOverflow Badge](https://img.shields.io/badge/-AndresF-ef8236?style=flat&labelColor=ef8236&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16978482/andres-frias)
 [![Discord Badge](https://img.shields.io/badge/-AndresFrias-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white)](https://discordapp.com/users/AndresFrias#2506)
 
+Hi, I'm Andrés Frías, full stack developer involved in the entire software development life cycle. I am passionate about technology and a self-taught student. I love trying new technologies and I am in search of constant learning. My goal is to work with projects that challenges me as a full stack developer that allows me to apply the knowledge acquired in years of study and work.
 
 **Github Stats**
 

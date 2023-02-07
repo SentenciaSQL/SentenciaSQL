@@ -7,9 +7,21 @@
 
 Hi, I'm Andrés Frías, full stack developer involved in the entire software development life cycle. I am passionate about technology and a self-taught student. I love trying new technologies and I am in search of constant learning. My goal is to work with projects that challenges me as a full stack developer that allows me to apply the knowledge acquired in years of study and work.
 
+## Top Technical Skills ##
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## Languages and Tools ##
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,php,laravel,spring,hibernate,maven,androidstudio,mysql,aws,bootstrap,dart,py,django,flask,ts,eclipse,firebase,gcp,idea,jquery,mongodb,postgres,cloudflare,py,wordpress)](https://skillicons.dev)
+
+
 **Github Stats**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sentenciasql&hide=prs,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **SentenciaSQL/SentenciaSQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

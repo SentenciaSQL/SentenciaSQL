@@ -7,6 +7,8 @@
 
 Hi, I'm Andrés Frías, full stack developer involved in the entire software development life cycle. I am passionate about technology and a self-taught student. I love trying new technologies and I am in search of constant learning. My goal is to work with projects that challenges me as a full stack developer that allows me to apply the knowledge acquired in years of study and work.
 
+- 📫 How to reach me, [email](mailto:afriasdev@gmail.com) :)
+
 ## Top Technical Skills ##
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -17,11 +19,10 @@ Hi, I'm Andrés Frías, full stack developer involved in the entire software dev
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,php,laravel,spring,hibernate,maven,androidstudio,mysql,aws,bootstrap,dart,py,django,flask,ts,eclipse,firebase,gcp,idea,jquery,mongodb,postgres,cloudflare,py,wordpress)](https://skillicons.dev)
 
-## Mobiles Apps ##
+## Mobile Apps ##
 **Learn Kids**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> https://play.google.com/store/apps/details?id=com.infandres.learn_kids_app
-
 
 **Github Stats**
 

@@ -18,7 +18,7 @@ Hi, I'm Andrés Frías, full stack developer involved in the entire software dev
 
 ## Languages and Tools ##
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,php,laravel,spring,hibernate,maven,androidstudio,mysql,aws,bootstrap,dart,py,django,flask,ts,eclipse,firebase,gcp,idea,jquery,mongodb,postgres,cloudflare,py,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,php,laravel,spring,hibernate,maven,androidstudio,mysql,aws,bootstrap,dart,py,django,flask,ts,eclipse,firebase,gcp,idea,jquery,mongodb,postgres,cloudflare,wordpress)](https://skillicons.dev)
 
 ## Mobile Apps ##
 **Learn Kids**
